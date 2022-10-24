@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Eyyf3urwOWmgsLlg6bY3Tk7e6sUmIh4SI4gJWLdpcYwc7jRSjwsK6MJT7tcaFWfGkW+V5mRWOjJWSSUhahuNuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aliy_ql08\\source\\repos\\ProtocolHTTP\\ProtocolHTTP.Client\\ProtocolHTTP.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aliy_ql08\\.nuget\\packages\\materialdesigncolors\\2.0.9\\materialdesigncolors.2.0.9.nupkg.sha512",
+    "C:\\Users\\Aliy_ql08\\.nuget\\packages\\materialdesignthemes\\4.6.1\\materialdesignthemes.4.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
